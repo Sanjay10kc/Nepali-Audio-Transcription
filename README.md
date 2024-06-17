@@ -9,9 +9,9 @@
 5. Decode the texts by using beam search decoding (infernce)
 
 ## Architecture
-![Res_block](https://github.com/Sanjay10kc/Neplai-Audio-Transcription/blob/main/media/res_block.png?raw=true)
+![Res_block](https://github.com/Sanjay10kc/Nepali-Audio-Transcription/blob/5547a94cbe901896abc99ebb2a66cd70b7644e6c/media/res_block.png)
 
-![Model](https://github.com/Sanjay10kc/Neplai-Audio-Transcription/blob/main/media/model.png?raw=true)
+![Model](https://github.com/Sanjay10kc/Nepali-Audio-Transcription/blob/5547a94cbe901896abc99ebb2a66cd70b7644e6c/media/model.png)
 
 ## Running the project
 0. Initialize the virtual environment by installing packages from `requirements.txt`.
